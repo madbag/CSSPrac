@@ -1,0 +1,29 @@
+h1 {
+    color: blue;
+    background-color: #f0f0f0;
+    border: 1px solid darkgray;
+}
+
+.paragraph {
+    color: rgb(0, 128, 0);
+    background-color: rgb(255,255,0, 0.5);
+}
+
+p {
+    color: red;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+* {
+    text-align: center;
+    font-family: arial, sans-serif;
+}
+
+span{
+    color: 	#800080;
+    font-style: italic;
+}
+
+
+
